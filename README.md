@@ -21,4 +21,7 @@ git add code.py
 git commit -m "Résolution du conflit entre conflit-a et conflit-b"
 git push origin main
 
-Le TP4 inclut les dossiers Data;
+Le TP4 inclut les dossiers Data; Notebook; rapport détaillé TP4
+
+Dans le dossier Data vous verrez le fichiers events 
+Dans le dossier Notebook vous verrer le fichier .
