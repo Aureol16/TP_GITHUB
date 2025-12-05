@@ -1,4 +1,4 @@
-TP1 ET TP2 
+Le TP1 ET TP2 inclut les fichiers 
 7. Observer le conflit
 Ouvrir code.py :
 
