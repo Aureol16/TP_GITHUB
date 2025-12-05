@@ -31,5 +31,9 @@ git push origin main
 Le TP4 inclut les dossiers Data; Notebook; rapport détaillé TP4
 
 Dans le dossier Data vous verrez le fichiers events 
+
+
 Dans le dossier Notebook vous verrer le fichier TP4_AB_Testing.ipynb 
+
+
 Dans le dossier Rapporte détaillé vous verrez le fichier pdf du rapport détaillé 
