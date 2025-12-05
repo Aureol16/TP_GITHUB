@@ -1,5 +1,6 @@
-Le TP1 ET TP2 inclut les fichiers 
-7. Observer le conflit
+Le TP1 ET TP2 inclut les fichiers code.py et module.py 
+
+7. Observation du conflit
 Ouvrir code.py :
 
 <<<<<<< HEAD
@@ -19,3 +20,5 @@ Valider la résolution :
 git add code.py
 git commit -m "Résolution du conflit entre conflit-a et conflit-b"
 git push origin main
+
+Le TP4 inclut les dossiers Data;
